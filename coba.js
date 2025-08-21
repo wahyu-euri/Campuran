@@ -90,4 +90,18 @@
 // console.log("User dan password salah")
 // }
 
-//
+//Arrow nation
+// const greet = (name) => {
+//     return `Hello, ${name}`;
+// };
+// console.log(greet("Eurisko"));
+// const greet = name => `Hello, ${name}`;
+// console.log(greet("Eurisko"));
+
+// const generateRandom = (start = 1, end = 10) =>
+// Math.floor(Math.random() * (end - start + 1)) + start;
+
+// console.log(generateRandom());
+// console.log(generateRandom(5));
+// console.log(generateRandom(10, 20));
+
